@@ -1,9 +1,10 @@
 # fasta_alignment_filters
 
-This repository contains various python scripts for manipulating and filtering fasta alignments
-
+This repository contains various python scripts for manipulating and filtering fasta alignments. The scripts were developed for the publication below, please cite if used!
 
 Author: Owen G Osborne
+
+Citation: Osborne, OG, Ciezarek, A, Wilson, T, Crayn, D, Hutton, I, Baker, WJ, Turnbull CGN, Savolainen, V. 2019. Speciation in Howea Palms Occurred in Sympatry, Was Preceded by Ancestral Admixture, and Was Associated with Edaphic and Phenological Adaptation. Molecular Biology and Evolution, 36(12), 2682–2697. https://doi.org/10.1093/molbev/msz166
 
 
 # cat_alns.py
